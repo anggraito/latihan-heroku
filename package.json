@@ -1,0 +1,24 @@
+{
+  "name": "latihan-heroku",
+  "version": "1.0.0",
+  "description": "latihan-heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anggraito/latihan-heroku.git"
+  },
+  "author": "sahbanagold <sahbanalo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anggraito/latihan-heroku/issues"
+  },
+  "homepage": "https://github.com/anggraito/latihan-heroku#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
