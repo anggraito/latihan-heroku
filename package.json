@@ -19,6 +19,9 @@
   "homepage": "https://github.com/anggraito/latihan-heroku#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "pg": "^7.0.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.3.2"
   }
 }

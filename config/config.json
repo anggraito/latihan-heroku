@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "anggraito",
+    "password": "bnm",
+    "database": "anggraito",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
